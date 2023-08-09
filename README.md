@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishita</h1>
-<h3 align="center">A passionate Developer and ML enthusiast</h3>
+<h3 align="center">A passionate Full Stack Developer and ML enthusiast</h3>
 
 - 💬 Ask me about **Java , Python**
 
